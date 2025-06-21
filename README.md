@@ -9,7 +9,7 @@
 - 🧪 Zero to Mastery: Machine Learning & Data Science
 
 ## 🛠️ Tech Stack
-`Python`, `Scikit-learn`, `pandas`, `NumPy`, `matplotlib`, `TensorFlow (learning)`, `Jupyter`, `ABAP`, `SAP HANA`
+`Python`, `Scikit-learn`, `pandas`, `NumPy`, `Jupyter`, `ABAP`, `SAP HANA`
 
 ## 📂 Featured Projects
 - 🔋 **Energy Efficiency Predictor** – Estimate CO₂ emissions of buildings using ML
