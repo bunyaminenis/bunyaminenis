@@ -6,10 +6,11 @@
 ## 🚀 Current Learning Path
 - 🧠 100 Days of Code: Python Bootcamp
 - 🤖 Machine Learning A-Z (Udemy)
-- 🧪 Zero to Mastery: Machine Learning & Data Science
+- 🐼 Python Data Analysis: NumPy & Pandas Masterclass
+- 🔥 PyTorch for Deep Learning Bootcamp
 
 ## 🛠️ Tech Stack
-`Python`, `Java`, `SQL`, `Scikit-learn`, `pandas`, `NumPy`, `Jupyter`, `ABAP`, `SAP HANA`
+`Python`, `Java`, `SQL`, `Pandas`, `NumPy`, `Jupyter`, `PyTorch`, `ABAP`, `SAP HANA`
 
 ## 📂 Featured Projects
 - 🔋 **Energy Efficiency Predictor** – Estimate CO₂ emissions of buildings using ML
