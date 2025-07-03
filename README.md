@@ -13,6 +13,7 @@
 
 ## 📂 Featured Projects
 - 🔋 **Energy Efficiency Predictor** – Estimate CO₂ emissions of buildings using ML
+- 📊 **Smart Review Analyzer** - Analyse reviews are positive or negative using ML
 
 ## 📫 How to reach me
 - LinkedIn: [linkedin.com/in/bünyamin-enis-kara-67319415b](https://www.linkedin.com/in/b%C3%BCnyamin-enis-kara-67319415b)
